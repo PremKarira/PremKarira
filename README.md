@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premkarira&show_icons=true&locale=en&layout=compact" alt="premkarira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premkarira&show_icons=true&locale=en" alt="premkarira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premkarira" alt="premkarira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkarira&" alt="premkarira" /></p>

@@ -5,7 +5,7 @@
 
 - I’m currently learning **MEAN Stack**
 
-- Working on : [https://premkarira.github.io/MERN_portfolio/](https://premkarira.github.io/MERN_portfolio/)
+<!--- - Working on : [https://premkarira.github.io/MERN_portfolio/](https://premkarira.github.io/MERN_portfolio/) --->
 
 - Ask me about **Node.js and MongoDB**
 

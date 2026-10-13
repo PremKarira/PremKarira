@@ -1,43 +1,137 @@
-<h1 align="center">Hi, I'm Prem Karira</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premkarira" alt="premkarira" /></a> </p> -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0b2a52,100:4595eb&height=260&section=header&text=Prem%20Karira&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=57&descSize=18&animation=fadeIn)
 
-- I’m currently learning **MEAN Stack**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=4595EB&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=92&lines=I+turn+ideas+into+useful+digital+products.;From+the+interface+to+the+database.)](https://git.io/typing-svg)
 
-<!--- - Working on : [https://premkarira.github.io/MERN_portfolio/](https://premkarira.github.io/MERN_portfolio/) --->
-
-- Ask me about **Node.js and MongoDB**
-
-- 📫 How to reach me **karira46@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/premkarira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premkarira" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prem_768" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prem_768" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prem_768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prem_768" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/premkarira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="premkarira" height="30" width="40" /></a>
+<p>
+  <a href="https://zprem.in/"><img src="https://img.shields.io/badge/Portfolio-zprem.in-4595EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/premkarira"><img src="https://img.shields.io/badge/LinkedIn-Prem_Karira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.zprem.in/"><img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile" /></a>
 </p>
 
-<details><summary><h3 align="left">Languages and Tools</h3></summary>
-<h5 align="left">Programming Languages:</h5>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h5 align="left">Frontend Development:</h5>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<h5 align="left">Backend Development:</h5>
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
-<h5 align="left">Database:</h5>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-<h5 align="left">Devops:</h5>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
-<h5 align="left">Other:</h5>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-</details>
+![Profile views](https://komarev.com/ghpvc/?username=premkarira&style=flat-square&color=4595eb&label=PROFILE+VIEWS)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=premkarira&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prem's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkarira&layout=compact&theme=buefy&hide_border=true" />|
-| ------------- | ------------- |
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premkarira&show_icons=true" alt="premkarira" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=premkarira&show_icons=true" alt="premkarira" /></p> 
--->
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkarira&show_icons=true" alt="premkarira" /></p> -->
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name: Prem Karira
+location: India
+role: Full-Stack Developer
+focus:
+  - Building end-to-end web products
+  - Designing dependable APIs and data layers
+  - Creating clear, responsive user experiences
+currently_learning: Modern JavaScript ecosystems and scalable architecture
+ask_me_about: [Node.js, Express, MongoDB, React, REST APIs]
+```
+
+I enjoy working across the whole product surface—understanding the problem, shaping the interface, designing the backend, and shipping something people can actually use.
+
+<div align="center">
+
+### The way I build
+
+```text
+Discover  ─────▶  Design  ─────▶  Build  ─────▶  Store  ─────▶  Ship
+problem           interface       UI + API       data            iterate
+```
+
+</div>
+
+---
+
+## Technology orbit
+
+<div align="center">
+
+### Core stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb&theme=dark&perline=6)](https://skillicons.dev)
+
+### Languages & frontend
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
+
+### Data, cloud & tools
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,aws,gcp,docker,linux,git,github,figma,postman&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Selected work
+
+<div align="center">
+
+<a href="https://zprem.in/">
+  <img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,55:0b2a52,100:4595eb&height=190&text=zprem.in&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20portfolio%20%E2%80%A2%20Projects%20%E2%80%A2%20Writing%20%E2%80%A2%20Contact&descAlignY=64&descSize=17&animation=fadeIn" alt="Visit Prem Karira's portfolio" />
+</a>
+
+### Full-stack portfolio
+
+An end-to-end portfolio powered by **Node.js, Express, EJS and MongoDB**, with live GitHub project syncing, a Markdown blog, contact handling, and an admin workspace.
+
+<p>
+  <a href="https://zprem.in/"><img src="https://img.shields.io/badge/VIEW_LIVE_SITE-4595EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View live portfolio" /></a>
+  <a href="https://github.com/premkarira?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+`Node.js` · `Express` · `EJS` · `MongoDB` · `GitHub API` · `Responsive UI`
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=premkarira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=4595EB&icon_color=4595EB&text_color=C9D1D9&ring_color=4595EB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=premkarira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0244BE&icon_color=0244BE&text_color=24292F&ring_color=0244BE" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=premkarira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Prem's GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=premkarira&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=4595EB&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=premkarira&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0244BE&text_color=24292F" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkarira&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Prem's most used languages" />
+</picture>
+
+</div>
+
+---
+
+## Beyond the code
+
+<div align="center">
+
+| Platform | Profile |
+| :--- | :---: |
+| Discord | [Live profile](https://discord.zprem.in/) |
+| CodeChef | [prem_768](https://www.codechef.com/users/prem_768) |
+| Codeforces | [prem_768](https://codeforces.com/profile/prem_768) |
+| LeetCode | [premkarira](https://www.leetcode.com/premkarira) |
+
+</div>
+
+---
+
+<div align="center">
+
+## Have a good problem? Let's solve it.
+
+I’m always interested in thoughtful products, challenging engineering problems, and conversations with people who care about what they build.
+
+[![Say Hello](https://img.shields.io/badge/SAY_HELLO-karira46%40gmail.com-4595EB?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:karira46@gmail.com)
+
+<br />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4595eb,55:0b2a52,100:050816&height=125&section=footer)
+
+</div>
